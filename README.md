@@ -23,7 +23,7 @@ Looking at this language distribution chart, you can see that Jupyter Notebook d
 
 ## 🏫 University Projects 
 
-[Machine Learning](https://github.com/Santisoutoo/aprendizaje_autom-tico.git): Comprehensive data science project with Jupyter notebooks for EDA, regression modeling, and clustering analysis. Features organized model persistence and systematic versioning for continuous ML workflow improvements.
+[Machine Learning](https://github.com/Santisoutoo/Machine_Learning.git): Comprehensive data science project with Jupyter notebooks for EDA, regression modeling, and clustering analysis. Features organized model persistence and systematic versioning for continuous ML workflow improvements.
 
 [APIs REST](https://github.com/Santisoutoo/apiAS.git) Serverless web application using FastAPI + Reflex to display Formula 1 telemetry data from FastF1 API. Implements CRUD operations with Supabase integration for real-time F1 data visualization and race analytics.
 
