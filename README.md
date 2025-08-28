@@ -27,7 +27,7 @@ Looking at this language distribution chart, you can see that Jupyter Notebook d
 
 [APIs REST](https://github.com/Santisoutoo/apiAS.git) Serverless web application using FastAPI + Reflex to display Formula 1 telemetry data from FastF1 API. Implements CRUD operations with Supabase integration for real-time F1 data visualization and race analytics.
 
-Developed in collaboration with @VforVitorio using Git workflows and branching strategies, demonstrating teamwork and version control skills essential for professional software development.
+Developed in collaboration with @[VforVitorio](https://github.com/VforVitorio) using Git workflows and branching strategies, demonstrating teamwork and version control skills essential for professional software development.
 
 
 ## Current project
