@@ -70,7 +70,7 @@ Developed in collaboration with @VforVitorio using Git workflows and branching s
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🏆 Certifications
+## 📚 Academic Background & Certifications
 
 - 🎓 4th-year Intelligent Systems Engineering - UIE Campus Coruña
 - 📜 Deep Learning Specialization - Andrew Ng (Coursera) ✅ 
