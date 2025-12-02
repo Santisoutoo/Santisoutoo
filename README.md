@@ -73,7 +73,7 @@ Developed in collaboration with @[VforVitorio](https://github.com/VforVitorio) u
 ## 📚 Academic Background & Certifications
 
 - 🎓 4th-year Intelligent Systems Engineering - UIE Campus Coruña
-- 📜 Deep Learning Specialization - Andrew Ng (Coursera) ✅ 
+- 📜 Deep Learning Specialization - Andrew Ng (Coursera) ✅
 - 📜 DeepLearning.AI Data Analytics Professional Certificate ✅
 - 📜 IBM Deep Learning with PyTorch, Keras and Tensorflow - Professional Certificate ✅
 
