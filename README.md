@@ -8,7 +8,7 @@
 </div>
 
 
-I am currently completing my degree in Artificial Intelligence Engineering, with a strong interest in deep learning, natural language processing (NLP), and data analytics.
+I am a graduate in Artificial Intelligence Engineering, with a strong interest in deep learning, natural language processing (NLP), and data analytics.
 
 I am particularly passionate about the aerospace sector and working on projects involving agent-based AI systems applied to aviation. I enjoy developing intelligent solutions that simulate and optimize complex environments, combining AI techniques with real-world applications.
 
@@ -72,7 +72,7 @@ Developed in collaboration with @[VforVitorio](https://github.com/VforVitorio) u
 
 ## 📚 Academic Background & Certifications
 
-- 🎓 4th-year Intelligent Systems Engineering - UIE Campus Coruña
+- 🎓 4th-year Intelligent Systems Engineering - UIE Campus Coruña ✅
 - 📜 Deep Learning Specialization - Andrew Ng (Coursera) ✅
 - 📜 DeepLearning.AI Data Analytics Professional Certificate ✅
 - 📜 IBM Deep Learning with PyTorch, Keras and Tensorflow - Professional Certificate ✅
