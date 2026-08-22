@@ -10,7 +10,7 @@
 
 I am a graduate in Artificial Intelligence Engineering, with a strong interest in deep learning, natural language processing (NLP), and data analytics.
 
-I am particularly passionate about the aerospace sector and working on projects involving agent-based AI systems applied to aviation. I enjoy developing intelligent solutions that simulate and optimize complex environments, combining AI techniques with real-world applications.
+I am particularly passionate about the aerospace sector and working on projects involving agent-based AI systems applied to aviation. I enjoy developing intelligent solutions that simulate and optimize complex systems.
 
 ---
 
@@ -18,16 +18,16 @@ I am particularly passionate about the aerospace sector and working on projects 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santisoutoo&PARAMETROS)
 
-Looking at this language distribution chart, you can see that Jupyter Notebook dominates at 96.21% of my codebase, which directly reflects my extensive work in data science, engineering and machine learning projects throughout my university studies.
+Looking at this language distribution chart, you can see that Jupyter Notebook dominates at 96.21% of my codebase, which directly reflects my extensive work in data science, engineering and machine learning.
 </div>
 
 ## 🏫 University Projects 
 
-[Machine Learning](https://github.com/Santisoutoo/Machine_Learning.git): Comprehensive data science project with Jupyter notebooks for EDA, regression modeling, and clustering analysis. Features organized model persistence and systematic versioning for continuous ML workflow improvements.
+[Machine Learning](https://github.com/Santisoutoo/Machine_Learning.git): Comprehensive data science project with Jupyter notebooks for EDA, regression modeling, and clustering analysis. Features organized workflows and reproducible experimentation.
 
-[APIs REST](https://github.com/Santisoutoo/apiAS.git) Serverless web application using FastAPI + Reflex to display Formula 1 telemetry data from FastF1 API. Implements CRUD operations with Supabase integration for real-time F1 data visualization and race analytics.
+[APIs REST](https://github.com/Santisoutoo/apiAS.git): Serverless web application using FastAPI + Reflex to display Formula 1 telemetry data from FastF1 API. Implements CRUD operations with Supabase integration.
 
-Developed in collaboration with @[VforVitorio](https://github.com/VforVitorio) using Git workflows and branching strategies, demonstrating teamwork and version control skills essential for professional software development.
+Developed in collaboration with @[VforVitorio](https://github.com/VforVitorio) using Git workflows and branching strategies, demonstrating teamwork and version control skills essential for professional development.
 
 
 ## Current project
@@ -83,8 +83,10 @@ Developed in collaboration with @[VforVitorio](https://github.com/VforVitorio) u
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiagosoutoortega)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiagosoutoortega@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://taxitolearn.com/)
 
 </div>
 
   
+
 
