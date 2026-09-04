@@ -25,6 +25,7 @@ Building agentic systems, voice interfaces, and simulation tools for aviation op
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Santisoutoo/open-instructor-station">Open Instructor Station</a></h3>
+      <a href="https://github.com/Santisoutoo/open-instructor-station"><img src="./img/open-instructor-station.png" alt="Open Instructor Station approach-training console" width="100%"></a>
       <p>AI-assisted instructor console for placing aircraft and changing their operational state throughout a training session.</p>
       <p><code>Flight training</code> <code>Simulation control</code> <code>Operational workflows</code></p>
       <a href="https://github.com/Santisoutoo/open-instructor-station">View repository</a>
